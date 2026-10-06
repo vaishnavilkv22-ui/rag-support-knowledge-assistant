@@ -1,0 +1,8 @@
+sentence-transformers
+ollama
+torch
+transformers
+numpy
+scipy
+scikit-learn
+huggingface-hub
